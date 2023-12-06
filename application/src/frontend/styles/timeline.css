@@ -1,0 +1,18 @@
+.beat {
+    position: absolute;
+    top: 0;
+    width: 1px; /* Adjust as needed */
+    background-color: black; /* Adjust color as needed */
+  }
+  
+  .measure-line {
+    position: absolute;
+    top: 0;
+    width: 1px; /* Adjust as needed */
+    background-color: white; /* Adjust color as needed */
+  }
+  
+  .division-line {
+    position: absolute;
+    background-color: black;
+  }
